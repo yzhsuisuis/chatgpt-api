@@ -1,2 +1,7 @@
 server:
   port: 8080
+wx:
+  config:
+    originalid: gh_3bbe530ed638
+    appid: wx7cc0de005680424b
+    token: b8b6

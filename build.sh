@@ -1,0 +1,1 @@
+docker build -f ./Dockerfile -t yangboer/chatgpt-api .
